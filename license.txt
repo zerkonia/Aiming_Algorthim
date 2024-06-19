@@ -1,0 +1,8 @@
+License of the decimal calculation library, written by Jan Mleczko.
+1. You can use this procedure library for any legal purpose, for free
+   - however, it comes "as is", with absolutely no warranty.
+2. When copying or transmitting this library, which you can do, you must
+   preserve authorship information & this license.
+3. Original symbolic code of this library should be provided with this
+   library - if it isn't, contact me via e-mail.
+4. You must NOT share changed versions of this library.
